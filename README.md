@@ -1,5 +1,5 @@
 <h1 align="center">Kaustubh Mali</h1>
-<h3 align="center">Backend Engineer | Java • Spring Boot • REST APIs • System Design</h3>
+<h3 align="center">Backend Engineer | Java • Spring Boot • REST APIs </h3>
 
 <p align="center">
   <a href="https://github.com/kaus2bha">
